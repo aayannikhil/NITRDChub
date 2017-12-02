@@ -8,7 +8,7 @@ import jarvis
 
 app = Flask(__name__)
 
-ACCESS_TOKEN = "EAAUa1N8qPX4BAE4G0mLSpmi7yZAam42T9ssMsPnhAZCW3C18TddOBgaKLZC5jT84UPZCa580ZB51i3czygl4Cm4MfWZBZBSgGZCKxrRqvMlvYEC6wVPha9DcUd5teWonedBU6LrFZCvZANArhAr4nWZBTa2BZAUAp4cduOZCJnqtBZBvfA9QZDZD"
+
 
 def reply(user_id, msg):
     print msg
